@@ -1,0 +1,107 @@
+.po {
+  color: white;
+  text-align: center;
+  font-family: 'Rajdhani';
+  font-size: 3rem;
+  line-height: 1.6;
+}
+
+.row {
+  margin-top: 20px;
+}
+
+.navbar-brand {
+  font-family: 'Bree serif';
+  font-size: 4rem;
+  font-weight: bold;
+}
+
+.navbar {
+  padding-bottom: 3rem;
+}
+
+.nav-item {
+  padding: 0 5px;
+}
+
+.container-fluid {
+  padding: 3% 5%;
+}
+
+.but {
+  padding: 20%;
+}
+
+.k {
+  margin: 2%;
+}
+
+#title {
+  background-color: black;
+  color: white;
+}
+
+#feature {
+  padding: 7% 15%;
+  margin-left: 40px;
+  text-align: center;
+}
+
+h2 {
+  font-weight: bold;
+}
+
+p {
+  color: grey;
+  font-family: 'Rajdhani';
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+.icon {
+  text-align: center;
+}
+
+#testimonial {
+  padding: 7% 10%;
+  background-color: black;
+}
+
+.pic {
+  width: 20%;
+  border-radius: 100%;
+}
+
+h3 {
+  color: blue;
+  font-weight: bold;
+}
+
+/* REVIEW:  */
+#Reviews {
+  padding: 7% 10%;
+  text-align: center;
+}
+
+#price {
+  padding: 7% 10%;
+}
+
+#log-in {
+  padding: 7% 10%;
+  background-color: black;
+}
+
+label {
+  color: white
+}
+
+.info {
+  padding: 7% 10%;
+}
+
+footer {
+  padding: 7% 10%;
+  background-color: #D3D3D3;
+  text-align: center;
+}
